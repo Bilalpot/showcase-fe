@@ -1,0 +1,11 @@
+.education_page, .education_table {
+    padding: 30px;
+    width: 100%;
+}
+
+.education_page_header {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
